@@ -1,3 +1,1 @@
 User-agent: *
-Allow: /
-Sitemap: https://sq8r.github.io/sitemap.xml
