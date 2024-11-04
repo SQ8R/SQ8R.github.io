@@ -2,39 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Space on Blowfish</title>
-    <link>http://localhost:1313/tags/space/</link>
+    <link>https://example.org/tags/space/</link>
     <description>Recent content in Space on Blowfish</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 SQ8R - Radek</copyright>
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My third post</title>
-      <link>http://localhost:1313/posts/e/</link>
+      <link>https://example.org/posts/e/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/e/</guid>
+      
+      <guid>https://example.org/posts/e/</guid>
       <description>This is my third post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/e/featured.jpg" />
     </item>
+    
     <item>
       <title>My third post</title>
-      <link>http://localhost:1313/posts/mythirdpost/</link>
+      <link>https://example.org/posts/mythirdpost/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mythirdpost/</guid>
+      
+      <guid>https://example.org/posts/mythirdpost/</guid>
       <description>This is my third post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/mythirdpost/featured.jpg" />
     </item>
+    
     <item>
       <title>My second post</title>
-      <link>http://localhost:1313/posts/mysecondpost/</link>
+      <link>https://example.org/posts/mysecondpost/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mysecondpost/</guid>
+      
+      <guid>https://example.org/posts/mysecondpost/</guid>
       <description>This is my second post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/mysecondpost/featured.jpg" />
     </item>
+    
     <item>
       <title>My first post</title>
-      <link>http://localhost:1313/posts/myfirstpost/</link>
+      <link>https://example.org/posts/myfirstpost/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/myfirstpost/</guid>
+      
+      <guid>https://example.org/posts/myfirstpost/</guid>
       <description>This is my first post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/myfirstpost/featured.jpg" />
     </item>
+    
   </channel>
 </rss>
